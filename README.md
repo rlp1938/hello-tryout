@@ -1,2 +1,2 @@
 # hello-tryout
-![Her Ladyship](bg.jpg)
+![Her Ladyship](bg)
